@@ -23,7 +23,9 @@ Understood Level Of Detail calculations.
 
 To Create Parameters
 
-Create interactive Dashboard for US Bank customers
+Understood how to use dashboard actions and create interactive dashboards.
+
+interactive Dashboard for US Bank customers
 With the help of dashboard, we can easly understand that in which area we have highest white coller bank account holder and how many of them male and female.
 
 
