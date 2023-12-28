@@ -1,3 +1,8 @@
 # Tableau-DashBoard
 
-![Screenshot (3)](https://github.com/Nalesujit/Tableau-DashBoard/assets/119741907/324c3185-961a-4824-8bfc-226a4fdd6c50)
+#Learn Data Analysis and visualization with the help of Tableau
+
+#Tableau Public Dashboard Link-
+https://public.tableau.com/app/profile/sujit6045/viz/BankCustomerDashboard_17024853113090/Dashboard1?publish=yes
+
+
